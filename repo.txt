@@ -1,0 +1,5 @@
+REPO: db-first
+GOAL: 
+Pagina con la lista delle stanze,
+un click porta al dettaglio della
+stanza
